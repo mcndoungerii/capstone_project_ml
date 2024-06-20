@@ -7,25 +7,25 @@
 Clone the repo:
 
 ```bash
-$ git remote add origin https://github.com/mcndoungerii/capstone_project_ml.git
+git remote add origin https://github.com/mcndoungerii/capstone_project_ml.git
 ```
 
 Navigate to it:
 
 ```bash
-$ cd interactive-dashboard-post
+cd interactive-dashboard-post
 ```
 
 Create a [virtual environment](https://virtualenv.pypa.io/en/latest/):
 
 ```bash
-$ virtualenv env
+virtualenv env
 ```
 
 Activate the environment:
 
 ```bash
-$ . env/bin/activate
+. env/bin/activate
 ```
 
 Install the requirements:
